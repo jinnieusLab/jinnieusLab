@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=radical" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jinnieusLab&show_icons=true&theme=radical" height="160px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinnieusLab&layout=compact&theme=cobalt" height="160px"/>
 </p>
 
