@@ -3,7 +3,7 @@
 ---
 ## Git Contributions
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/jinnieusLab"/ width=1000 height=500>
+  <img src="https://render.gitanimals.org/farms/jinnieusLab"/ width=400 height=300>
 </a>
 
 ## 📟 BOJ
