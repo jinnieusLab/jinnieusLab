@@ -2,7 +2,7 @@
 
 ---
 ## Git Contributions
-<div align="center">
+<div align="center" width="1000">
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/jinnieusLab" width="450" height="300">
   </a>
