@@ -2,11 +2,11 @@
 
 ---
 ## Git Contributions
-<div width=1000 height= 400>
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/jinnieusLab"/ width=450 height=300>
-</a>
-<img src="https://github-readme-stats.vercel.app/api?username=jinnieusLab&show_icons=true&theme=radical">
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/jinnieusLab" width="450" height="300">
+  </a>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=jinnieusLab&show_icons=true&theme=radical">
 </div>
 
 ## 📟 BOJ
