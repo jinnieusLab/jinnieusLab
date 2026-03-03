@@ -4,7 +4,7 @@
 ## Git Contributions
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/jinnieusLab" width="48%">
+    <img src="https://render.gitanimals.org/farms/jinnieusLab?v=2" width="48%">
     <img src="https://render.gitanimals.org/guilds/816609482789971033/draw" width="48%"/>
   </a>
   <img src="https://github-readme-stats-fast.vercel.app/api?username=jinnieusLab&show_icons=true&theme=radical">
