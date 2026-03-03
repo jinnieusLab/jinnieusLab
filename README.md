@@ -5,6 +5,7 @@
 <div align="center" width="1000">
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/jinnieusLab" width="450" height="300">
+    <img src="https://render.gitanimals.org/guilds/816609482789971033/draw" width="450" height="300"/>
   </a>
   <img src="https://github-readme-stats-fast.vercel.app/api?username=jinnieusLab&show_icons=true&theme=radical">
 </div>
