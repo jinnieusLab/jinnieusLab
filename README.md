@@ -81,11 +81,11 @@
   </tr>
   <tr>
     <td align="center"><b>2024</b></td>
-    <td align="center">UMC(University Makeus Challenge) 6기 Server</td>
+    <td align="center">University of Central Missouri 미국 교환 학생</td>
   </tr>
   <tr>
     <td align="center"><b>2024</b></td>
-    <td align="center">University of Central Missouri 미국 교환 학생</td>
+    <td align="center">UMC(University Makeus Challenge) 6기 Server</td>
   </tr>
 </table>
 
