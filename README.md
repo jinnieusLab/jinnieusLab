@@ -15,7 +15,7 @@
 
 <br>
 
-<h2 align="center">🛠️ 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠</h2>
+<h2 align="center">⟢ 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,c,spring,mysql,redis,kafka,aws,nginx" height="50" alt="tech stack line 1" />
@@ -26,7 +26,7 @@
 
 <br><br>
 
-<h2 align="center">🚀 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨</h2>
+<h2 align="center">✶ 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙙 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨</h2>
 
 <table align="center" width="100%">
   <tr>
@@ -64,7 +64,7 @@
 
 <br>
 
-<h2 align="center">📚 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 & 𝙀𝙙𝙪𝙘𝙖𝙩𝙞𝙤𝙣</h2>
+<h2 align="center">✈ 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 & 𝙀𝙙𝙪𝙘𝙖𝙩𝙞𝙤𝙣</h2>
 
 <table align="center">
   <tr>
