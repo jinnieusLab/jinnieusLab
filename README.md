@@ -22,7 +22,7 @@
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="50" alt="githubactions logo" />
 </div>
 
-<br><br><br>
+<br><br>
 
 <h2 align="center">🚀 Projects</h2>
 
@@ -73,7 +73,7 @@
   </tr>
 </table>
 
-<br><br><br>
+<br><br>
 
 <h2 align="center">📚 Experience & Education</h2>
 
@@ -100,7 +100,7 @@
   </tr>
 </table>
 
-<br><br><br>
+<br><br>
 
 <h2 align="center">📈 GitHub Stats</h2>
 
