@@ -58,19 +58,6 @@
       <br><br>
     </td>
   </tr>
-  
-  <tr>
-    <td colspan="2" align="center">
-      <br>
-      <img width="60" src="https://github.com/user-attachments/assets/3e6492c7-6188-4eac-b02d-14b98d97a501" />
-      <h3>Noticore</h3>
-      <p><b>사내 장애 감지 및 다채널 실시간 전파 SRE 서비스</b><br>(2025)</p>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_RDS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-      <br><br>
-      <a href="https://github.com/swyp-2-team/porthos"><img src="https://img.shields.io/badge/GitHub_Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      <br><br>
-    </td>
-  </tr>
 </table>
 
 <br>
