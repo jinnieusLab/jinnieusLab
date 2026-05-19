@@ -101,14 +101,14 @@
       <br>
       <div align="center">
         <a href="https://github.com/devxb/gitanimals">
-          <img src="https://render.gitanimals.org/farms/jinnieusLab" width="35%">
-          <img src="https://render.gitanimals.org/guilds/816609482789971033/draw" width="35%">
+          <img src="https://render.gitanimals.org/farms/jinnieusLab" width="40%">
+          <img src="https://render.gitanimals.org/guilds/816609482789971033/draw" width="40%">
         </a>
       </div>
       <div align="center">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=jinnieusLab&show_icons=true&theme=radical" width="35%">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=jinnieusLab&show_icons=true&theme=radical" width="40%">
         <a href="https://solved.ac/geniuslab">
-          <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=geniuslab" width="35%" alt="solved.ac badge">
+          <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=geniuslab" width="40%" alt="solved.ac badge">
         </a>
         <br><br>
       </div>
