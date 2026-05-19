@@ -18,7 +18,9 @@
 <h2 align="center">🛠️ 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,spring,mysql,redis,kafka,aws,nginx,linux,docker,prometheus,grafana,github,git,postman" height="50" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,c,spring,mysql,redis,kafka,aws,nginx" height="50" alt="tech stack line 1" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=linux,docker,prometheus,grafana,github,git,postman" height="50" alt="tech stack line 2" />
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="50" alt="githubactions logo" />
 </div>
 
