@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td align="center"><b>2024</b></td>
-    <td align="center">연합 코딩 프로젝트 동아리 UMC 6기 Server(Spring)</td>
+    <td align="center">UMC(University Makeus Challenge 6기 Server(Spring)</td>
   </tr>
   <tr>
     <td align="center"><b>2024</b></td>
