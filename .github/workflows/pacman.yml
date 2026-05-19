@@ -1,0 +1,28 @@
+name: Pacman Readme
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 매일 자정 업데이트
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Generate Pacman Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/pacman-contribution-graph.svg?color_snake=#f9c901&color_dots=#3b4252,#4c566a,#81a1c1,#88c0d0,#5e81ac
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=#f9c901&color_dots=#3b4252,#4c566a,#81a1c1,#88c0d0,#5e81ac
+
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: pacman-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
