@@ -15,7 +15,7 @@
 
 <br>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">🛠️ 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,c,spring,mysql,redis,kafka,aws,nginx,linux,docker,prometheus,grafana,github,git,postman" height="50" alt="tech stack" />
@@ -24,7 +24,7 @@
 
 <br><br>
 
-<h2 align="center">🚀 Projects</h2>
+<h2 align="center">🚀 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨</h2>
 
 <table align="center" width="100%">
   <tr>
@@ -73,9 +73,9 @@
   </tr>
 </table>
 
-<br><br>
+<br>
 
-<h2 align="center">📚 Experience & Education</h2>
+<h2 align="center">📚 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 & 𝙀𝙙𝙪𝙘𝙖𝙩𝙞𝙤𝙣</h2>
 
 <table align="center">
   <tr>
@@ -100,37 +100,28 @@
   </tr>
 </table>
 
-<br><br>
-
-<h2 align="center">📈 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jinnieusLab.jinnieusLab&right_color=darksalmon&left_text=visitors" />
-  <br><br>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jinnieusLab/jinnieusLab/pacman-output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jinnieusLab/jinnieusLab/pacman-output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jinnieusLab/jinnieusLab/pacman-output/pacman-contribution-graph.svg" width="100%">
-  </picture>
-</div>
-
 <br>
 
-<div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/jinnieusLab" width="35%">
-    <img src="https://render.gitanimals.org/guilds/816609482789971033/draw" width="35%">
-  </a>
+<div>
+      <h2 align="center">
+        🇬‌🇮‌🇹‌🇭‌🇺‌🇧‌ 🇸‌🇹‌🇦‌🇹‌🇸‌&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=jinnieusLab.jinnieusLab&right_color=238636&left_text=visitors" />
+      </h2>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=jinnieusLab&show_icons=true&theme=radical" width="35%">
-  <a href="https://solved.ac/geniuslab">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=geniuslab" width="35%" alt="solved.ac badge">
-  </a>
-</div>
+      <div align="center">
+        <img alt="pacman contribution graph" src="https://pacman.abozanona.me?username=jinnieusLab" width="80%">
+      </div>
+      <br>
+      <div align="center">
+        <a href="https://github.com/devxb/gitanimals">
+          <img src="https://render.gitanimals.org/farms/jinnieusLab" width="35%">
+          <img src="https://render.gitanimals.org/guilds/816609482789971033/draw" width="35%">
+        </a>
+      </div>
+      <div align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=jinnieusLab&show_icons=true&theme=radical" width="35%">
+        <a href="https://solved.ac/geniuslab">
+          <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=geniuslab" width="35%" alt="solved.ac badge">
+        </a>
+        <br><br>
+      </div>
