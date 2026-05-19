@@ -56,7 +56,7 @@
       <a href="https://apps.apple.com/kr/app/%ED%8B%88%ED%8B%88%EC%9E%87/id6757255726" target="_blank"><img src="https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white"/></a>
       <a href="https://play.google.com/store/apps/details?id=com.teumteumeat.teumteumeat&hl=ko" target="_blank"><img src="https://img.shields.io/badge/Google_Play-410099?style=flat-square&logo=googleplay&logoColor=white"/></a><br>
       <a href="https://medium.com/@teumteumeat"><img src="https://img.shields.io/badge/Team_Blog-12100E?style=flat-square&logo=medium&logoColor=white"/></a>
-      <a href="https://www.instagram.com/teumteum.eat?igsh=ZDF3eWRjZXF3bDNh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+      <a href="https://www.instagram.com/teumteum.eat"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
       <br><br>
     </td>
   </tr>
