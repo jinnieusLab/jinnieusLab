@@ -36,7 +36,7 @@
     <td align="left" width="33%" valign="top">
       <img width="60" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/25/9b/ee259bc0-6239-d767-d358-3023881ab3ea/Placeholder.mill/400x400bb-75.webp" />
       <h3>팔랑 (Pallang)</h3>
-      <p><sub><b>낯선 사람과의 교환독서 서비스</b><br>2026 Nexters 29기</sub></p>
+      <p><sub><b>낯선 사람과의 교환독서 서비스</b><br>2026.07 ~</sub></p>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       <br><br>
       <a href="https://www.pallang.co.kr/landing"><img src="https://img.shields.io/badge/Landing-000000?style=flat-square&logo=googlechrome&logoColor=white"/></a> <a href="https://github.com/Nexters/pallang-server"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://apps.apple.com/us/app/pallang-%ED%8C%94%EB%9E%91/id6796140451"><img src="https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white"/></a> <a href="https://play.google.com/store/apps/details?id=kr.co.pallang.app"><img src="https://img.shields.io/badge/Google_Play-410099?style=flat-square&logo=googleplay&logoColor=white"/></a>
